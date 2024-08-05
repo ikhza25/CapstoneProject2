@@ -40,15 +40,15 @@ The directory structure of project looks like this:
     │
     ├── docs                        <- The document will consist of a detailed presentation or images.
     │
-    ├── Capstone2.ipynb             <- Source code for use in this project.
+    ├── Capstone2.ipynb             <- Python Notebook for The Project.
     │
-    ├── Supermarket_customer.csv    <- Source code for use in this project.
+    ├── Supermarket_customer.csv    <- Dataset from this project.
     │
     └── requirements.txt            <- The requirements file for reproducing the analysis environment, e.g.
                                        generated with `pip freeze > requirements.txt`
 
 Tableau Visualization
-(./docs/pngwing.com.png)
+![Data Icon](./docs/pngwing.com.png)
 For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
 
 Link <a href="https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
