@@ -1,4 +1,4 @@
-﻿﻿![Header](./docs/6b32bc16d757ed3abd92e3896dab5451f482ba3d4e8e98266de3104ba6bfac38.jpg width="300" height="200")
+﻿﻿<img src="./docs/6b32bc16d757ed3abd92e3896dab5451f482ba3d4e8e98266de3104ba6bfac38.jpg" width="300" height="200" />
 
 # Supermarket Customer Analysis
 
