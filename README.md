@@ -8,9 +8,6 @@ This project is part of the capstone projects from the Data Science and Machine 
 
 The project involves analyzing customer data from Supermarket ABC to understand buying behavior and develop strategies to increase sales. It covers data preprocessing, exploratory data analysis, customer segmentation, and evaluation of promotional strategies.
 
-### About the Company
-
-Supermarket ABC was founded in 2005 by Alex Johnson with a mission to provide the best shopping experience focusing on customer needs. Over the years, it has grown into a network of supermarkets offering a wide range of products with an emphasis on quality, convenience, and exceptional customer service.
 
 ### Business Context
 
