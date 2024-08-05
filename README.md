@@ -48,11 +48,12 @@ The directory structure of FruitMarket project looks like this:
                                        generated with `pip freeze > requirements.txt`
 
 Tableau Visualization
+(.docs/pngwing.com.png)
 
 For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
 
 <a href="https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    (.docs/pngwing.com.png)
+    
 </a>
 
 
