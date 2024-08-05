@@ -49,16 +49,11 @@ The directory structure of project looks like this:
 
 ## Tableau Visualization
 
-![Data Icon](./docs/pngwing.com.png){:style="width: 100px; height: auto;"}
+<img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 100px; height: auto;"/>
 
 For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
 
-[Tableau Dashboard](https://your-tableau-dashboard-link.com)
-
-
-Link <a href="https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    Tableau
-</a>
+[Tableau Dashboard](https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Contribute
