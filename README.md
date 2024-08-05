@@ -48,7 +48,8 @@ The directory structure of project looks like this:
                                        generated with `pip freeze > requirements.txt`
 
 
-<img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 100px; height: auto;"/>
+<img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 200px; height: auto;"/>
+
 ## Tableau Visualization
 
 For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
