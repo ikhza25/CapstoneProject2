@@ -47,11 +47,13 @@ The directory structure of project looks like this:
     └── requirements.txt            <- The requirements file for reproducing the analysis environment, e.g.
                                        generated with `pip freeze > requirements.txt`
 
+
+<img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 100px; height: auto;"/>
 ## Tableau Visualization
 
 For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
 
-<a href="(https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 200px; height: auto;"/></a>
+<a href="https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>
 
 
 ## Contribute
